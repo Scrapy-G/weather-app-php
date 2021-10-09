@@ -1,5 +1,5 @@
 <?php 
-$weatherKey = "c30407bfed95af238f9d09c1922f692a";
+$weatherKey = "openweather api key";
 
 function fetchWeather($city) {
     global $weatherKey;
